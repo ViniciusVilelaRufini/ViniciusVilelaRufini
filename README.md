@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, Dev! 👋 Eu sou o Vinicius Vilela Rufini
+# Olá, Dev! Eu sou o Vinicius Vilela Rufini
 
 ### 🚀 Desenvolvedor Full Stack | Soluções Ponta a Ponta para Web & Mobile
 

@@ -2,7 +2,7 @@
 
 # Olá, Dev! Eu sou o Vinicius Vilela Rufini
 
-### 🚀 Desenvolvedor Full Stack | Soluções Ponta a Ponta para Web & Mobile
+### Desenvolvedor Full Stack | Soluções Ponta a Ponta para Web & Mobile
 
 Transformo ideias em produtos digitais completos — da arquitetura de backend robusta
 à experiência de interface fluida em Web e Mobile. Foco em código limpo, escalabilidade
@@ -12,7 +12,7 @@ e soluções orientadas a resultado.
 
 <br>
 
-## 🧠 Sobre Mim
+##  Sobre Mim
 
 Sou desenvolvedor com atuação **end-to-end**, capaz de projetar, construir e implantar
 sistemas completos: desde a modelagem de dados e APIs no backend até a construção de
@@ -22,9 +22,9 @@ para gerar valor real em contextos corporativos.
 
 <br>
 
-## 🛠️ Minhas Habilidades
+##  Minhas Habilidades
 
-### 💻 Frontend & Mobile
+###  Frontend & Mobile
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>

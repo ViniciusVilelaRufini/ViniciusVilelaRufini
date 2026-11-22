@@ -1,6 +1,6 @@
 {
  "user": "ViniciusVilelaRufini",
- "fetched_at": "2026-11-21T16:51:43Z",
+ "fetched_at": "2026-11-22T17:15:01Z",
  "source": "github.com/users/ViniciusVilelaRufini/contributions",
  "profile": {
   "public_repos": 10,
@@ -37,41 +37,6 @@
   }
  },
  "days": [
-  {
-   "date": "2025-11-16",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-17",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-18",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-19",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-20",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-21",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-22",
-   "count": 0,
-   "level": 0
-  },
   {
    "date": "2025-11-23",
    "count": 0,
@@ -1889,6 +1854,11 @@
   },
   {
    "date": "2026-11-21",
+   "count": 0,
+   "level": 0
+  },
+  {
+   "date": "2026-11-22",
    "count": 0,
    "level": 0
   }
